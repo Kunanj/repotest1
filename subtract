@@ -1,0 +1,12 @@
+/*Program to subtract two numbers in C.
+Programmer: Harsh Shah, Date: 29/6/13*/
+#include<stdio.h>
+#include<conio.h>
+
+void main(){
+
+int one, two, sub;
+
+printf("Enter first number - ");
+
+scanf("%d",&one);
